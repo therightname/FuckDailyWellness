@@ -1,4 +1,4 @@
-// ==FuckDailyWellness==
+// ==UserScript==
 // @name         FuckDailyWellness
 // @namespace    http://tampermonkey.net/
 // @version      0.1
@@ -6,7 +6,7 @@
 // @author       therightname
 // @match        https://services.northeastern.edu/wellness?id=health_verification_confirmation
 // @icon         https://www.google.com/s2/favicons?domain=northeastern.edu
-// ==/FuckDailyWellness==
+// ==/UserScript==
 
 (function() {
     'use strict';
