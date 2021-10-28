@@ -13,4 +13,4 @@ Northeastern University Requires a daily wellness check to enter the library and
 5. For "Collection owner" put 3753384, and for Collection name, type "NuxFavs". This is not controlled by me. Firefox Nightly should automatically restart. You have tampermonkey now on your Firefox Nightly under add-ons.
 6. Go to The three dots -> Add-ons, and click Tampermonkey. Enable the extension.
 7. Navigate to https://gist.github.com/therightname/26553b1560aac9acfd1809d72950b429 in Firefox Nightly and tap "raw".
-8. The script should auto install, not make sure its enabled on the website and HF!
+8. The script should auto install, now make sure its enabled on the website and HF!
